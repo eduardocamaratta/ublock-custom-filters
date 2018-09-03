@@ -1,0 +1,74 @@
+! Folha Paywall
+folha.uol.com.br##*paywall*
+paywall.folha.uol.com.br
+! 4/18/2017, 12:36:05 PM https://www.uol.com.br
+www.uol##.content-lightbox-container
+! 4/18/2017, 12:36:25 PM https://www.uol.com.br
+www.uol##.overlay-lightbox
+! 4/18/2017, 12:36:25 PM https://www.uol.com.br
+www.uol##.content-lightbox
+! 4/26/2017, 3:24:43 PM http://legendas.tv/
+legendas.tv###overlay
+! 4/26/2017, 3:26:31 PM http://legendas.tv/
+legendas.tv###fanback
+! 5/30/2017, 6:54:54 AM http://www.clicrbs.com.br/rs/
+||player.performgroup.com/eplayer/eplayer.html$subdocument
+! 7/12/2017, 9:58:34 AM https://www.uol.com.br
+uol.com.br##.bannersticky-top-container
+! 7/24/2017, 12:13:51 PM http://zh.clicrbs.com.br
+zh.clicrbs.com.br###onesignal-popover-dialog
+! 8/18/2017, 8:42:18 PM http://www1.folha.uol.com.br
+www1.folha.uol.com.br##.aside-menu > .nav
+! 8/20/2017, 4:52:20 PM https://en.wikipedia.org
+en.wikipedia.org###frb-inline
+! 8/22/2017, 7:29:42 PM https://en.wikipedia.org
+en.wikipedia.org###frb-nag
+! 8/27/2017, 7:48:42 AM https://en.wikipedia.org
+en.wikipedia.org##.frb
+! 8/27/2017, 7:32:41 PM https://pt.wikipedia.org
+pt.wikipedia.org###frb-inline
+! 8/27/2017, 7:32:41 PM https://pt.wikipedia.org
+pt.wikipedia.org###frb-nag
+! 8/27/2017, 7:32:41 PM https://pt.wikipedia.org
+pt.wikipedia.org##.frb
+! 8/22/2017, 10:08:21 AM http://www.guiainvest.com.br/mural/elet3.aspx
+www.guiainvest.com.br##.k-overlay
+! 8/22/2017, 10:08:42 AM http://www.guiainvest.com.br/mural/elet3.aspx
+www.guiainvest.com.br##.k-widget
+! 8/24/2017, 9:20:34 AM https://www.engadget.com
+www.engadget.com##.i-context_nav
+! https://www.reddit.com/r/uBlockOrigin/comments/6sgwcr/youtube_video_ads_as_of_8817/
+youtube.com##.ad-interrupting .video-stream.html5-main-video
+! https://gizmodo.com/how-to-stop-pirate-bay-and-other-sites-from-hijacking-y-1818549856
+https://coin-hive.com/lib/coinhive.min.js
+! 9/22/2017, 7:58:05 AM https://getpocket.com/a/queue/
+getpocket.com##.item_type_spoc
+! 10/12/2017, 2:51:11 PM https://www.opensubtitles.org/en/search/subs
+www.opensubtitles.org###fadeSub
+! 10/12/2017, 2:51:41 PM https://www.opensubtitles.org/en/search/subs
+www.opensubtitles.org###lightSub
+! 10/17/2017, 12:49:23 PM https://www.flatout.com.br
+www.flatout.com.br##.gt40-carousel
+! 10/31/2017, 08:05:00 AM https://www.gamespot.com
+www.gamespot.com##.preloaded_lightbox
+! 10/31/2017, 08:05:00 AM https://www.gamespot.com
+www.gamespot.com##.fb_digioh-overlay
+! 12/9/2017, 10:58:06 AM https://sorteador.com.br/
+sorteador.com.br##.jconfirm
+! 3/27/2018, 10:47:20 AM https://esporte.uol.com.br
+esporte.uol.com.br##.sponsor
+! 5/4/2018, 9:57:19 AM https://gizmodo.com/iphone-x-six-months-later-1825722111
+gizmodo.com##.recent-video__Container-iFuzeq
+lifehacker.com##.recent-video__Container-iFuzeq
+! 5/11/2018, 08:05:00 AM https://www.flatout.com.br
+youtube.com##.ytp-pause-overlay
+! 7/14/2018, 7:36:11 PM https://www.netflix.com/browse
+www.netflix.com##.whatsapp.message
+! 9/3/2018, 7:40:17 AM https://io9.gizmodo.com/the-director-of-god-of-war-has-interesting-ideas-about-1828774195
+io9.gizmodo.com###lightbox_overlay_div
+io9.gizmodo.com##.preloaded_lightbox
+! 5/11/2018, 08:05:00 AM https://www.flatout.com.br
+youtube.com##.ytp-pause-overlay
+! 9/1/2018, 11:53:00 PM https://rarbgprx.org/torrents.php
+https://dyncdn.me/static/20/js/showads.js
+https://dyncdn.me/static/20/js/expla89.js
