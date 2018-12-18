@@ -71,6 +71,8 @@ lifehacker.com###lightbox_overlay_div
 lifehacker.com##.preloaded_lightbox
 gizmodo.com###lightbox_overlay_div
 gizmodo.com##.preloaded_lightbox
+jalopnik.com##.preloaded_lightbox
+jalopnik.com##lightbox_overlay_div
 ! 5/11/2018, 08:05:00 AM https://www.flatout.com.br
 youtube.com##.ytp-pause-overlay
 ! 9/1/2018, 11:53:00 PM https://rarbgprx.org/torrents.php
