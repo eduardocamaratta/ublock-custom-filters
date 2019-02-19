@@ -60,6 +60,8 @@ esporte.uol.com.br##.sponsor
 ! 5/4/2018, 9:57:19 AM https://gizmodo.com/iphone-x-six-months-later-1825722111
 gizmodo.com##.recent-video__Container-iFuzeq
 lifehacker.com##.recent-video__Container-iFuzeq
+! https://gizmodo.com Annoying front page videos
+gizmodo.com##.instream-native-video--frontpage
 ! 5/11/2018, 08:05:00 AM https://www.flatout.com.br
 youtube.com##.ytp-pause-overlay
 ! 7/14/2018, 7:36:11 PM https://www.netflix.com/browse
