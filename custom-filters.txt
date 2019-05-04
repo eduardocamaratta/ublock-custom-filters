@@ -82,3 +82,5 @@ youtube.com##.ytp-pause-overlay
 ! 9/1/2018, 11:53:00 PM https://rarbgprx.org/torrents.php
 https://dyncdn.me/static/20/js/showads.js
 https://dyncdn.me/static/20/js/expla89.js
+! 5/4/2019, 4:28:00 PM  https://www.thelocal.de
+https://cdn.tinypass.com/api/tinypass.min.js
