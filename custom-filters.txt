@@ -85,3 +85,10 @@ https://dyncdn.me/static/20/js/showads.js
 https://dyncdn.me/static/20/js/expla89.js
 ! 5/4/2019, 4:28:00 PM  https://www.thelocal.de
 https://cdn.tinypass.com/api/tinypass.min.js
+! 5/8/2019, 9:26:00 AM https://internetpf.itau.com.br
+internetpf.itau.com.br##.mfp-bg
+internetpf.itau.com.br##.mfp-wrap
+internetpf1.itau.com.br##.mfp-bg
+internetpf1.itau.com.br##.mfp-wrap
+internetpf2.itau.com.br##.mfp-bg
+internetpf2.itau.com.br##.mfp-wrap
