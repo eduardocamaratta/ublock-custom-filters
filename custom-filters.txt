@@ -92,3 +92,5 @@ internetpf1.itau.com.br##.mfp-bg
 internetpf1.itau.com.br##.mfp-wrap
 internetpf2.itau.com.br##.mfp-bg
 internetpf2.itau.com.br##.mfp-wrap
+! 27/7/2019, 1:00:00 PM https://www.gamespot.com
+||lightboxcdn.com^$all
