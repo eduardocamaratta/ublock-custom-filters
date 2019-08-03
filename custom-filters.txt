@@ -94,3 +94,5 @@ internetpf2.itau.com.br##.mfp-bg
 internetpf2.itau.com.br##.mfp-wrap
 ! 27/7/2019, 1:00:00 PM https://www.gamespot.com
 ||lightboxcdn.com^$all
+! 3/8/2019, 09:55:00 AM https://morgenpost.de
+morgenpost.de/resources/*/piano/js/main.min.js
