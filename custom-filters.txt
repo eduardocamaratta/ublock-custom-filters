@@ -96,3 +96,6 @@ internetpf2.itau.com.br##.mfp-wrap
 ||lightboxcdn.com^$all
 ! 3/8/2019, 09:55:00 AM https://morgenpost.de
 morgenpost.de/resources/*/piano/js/main.min.js
+! 13/8/2019, 11:00:00 AM https://thelocal.de
+private-browsing.js
+tinypass.min.js
