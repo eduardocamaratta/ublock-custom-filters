@@ -98,4 +98,4 @@ internetpf2.itau.com.br##.mfp-wrap
 morgenpost.de/resources/*/piano/js/main.min.js
 ! 13/8/2019, 11:00:00 AM https://thelocal.de
 private-browsing.js
-tinypass.min.js
+tinypass.com
