@@ -85,13 +85,10 @@ https://dyncdn.me/static/20/js/showads.js
 https://dyncdn.me/static/20/js/expla89.js
 ! 5/4/2019, 4:28:00 PM  https://www.thelocal.de
 https://cdn.tinypass.com/api/tinypass.min.js
-! 5/8/2019, 9:26:00 AM https://internetpf.itau.com.br
-internetpf.itau.com.br##.mfp-bg
-internetpf.itau.com.br##.mfp-wrap
-internetpf1.itau.com.br##.mfp-bg
-internetpf1.itau.com.br##.mfp-wrap
-internetpf2.itau.com.br##.mfp-bg
-internetpf2.itau.com.br##.mfp-wrap
+! 5/8/2019, 9:26:00 AM https://itau.com.br
+itau.com.br##.mfp-bg
+itau.com.br##.mfp-wrap
+itau.com.br##.blockUI
 ! 27/7/2019, 1:00:00 PM https://www.gamespot.com
 ||lightboxcdn.com^$all
 ! 3/8/2019, 09:55:00 AM https://morgenpost.de
