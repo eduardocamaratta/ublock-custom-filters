@@ -96,3 +96,5 @@ morgenpost.de/resources/*/piano/js/main.min.js
 ! 13/8/2019, 11:00:00 AM https://thelocal.de
 private-browsing.js
 tinypass.com
+! 10/8/2019 https://gauchazh.clicrbs.com.br
+gauchazh.clicrbs.com.br##w-div
