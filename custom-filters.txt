@@ -98,3 +98,5 @@ private-browsing.js
 tinypass.com
 ! 10/8/2019 https://gauchazh.clicrbs.com.br
 gauchazh.clicrbs.com.br##w-div
+! 07/12/2019 https://www.gamespot.com/
+gamespot.com##.js-play-on-scroll
