@@ -100,3 +100,5 @@ tinypass.com
 gauchazh.clicrbs.com.br##w-div
 ! 07/12/2019 https://www.gamespot.com/
 gamespot.com##.js-play-on-scroll
+! 03/02/2020 https://www1.folha.uol.com.br
+folha.uol.com.br##div[data-subscribe-advertising=""]
