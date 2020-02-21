@@ -102,3 +102,5 @@ gauchazh.clicrbs.com.br##w-div
 gamespot.com##.js-play-on-scroll
 ! 03/02/2020 https://www1.folha.uol.com.br
 folha.uol.com.br##div[data-subscribe-advertising=""]
+! 21/02/2020 https://www.uol.com.br
+uol.com.br##.webalert_parent_container
