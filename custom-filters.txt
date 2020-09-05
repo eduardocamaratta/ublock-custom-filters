@@ -104,3 +104,5 @@ folha.uol.com.br##div[data-subscribe-advertising=""]
 uol.com.br##.webalert_parent_container
 ! 16/06/2020 https://www.gamespot.com/
 gamespotvideo.*
+! 05/09/2020 https://www.kotaku.com
+kotaku.com##.js_modal_exit_intent
