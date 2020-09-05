@@ -106,3 +106,5 @@ uol.com.br##.webalert_parent_container
 gamespotvideo.*
 ! 05/09/2020 https://www.kotaku.com
 kotaku.com##.js_modal_exit_intent
+jalopnik.com##.js_modal_exit_intent
+gizmodo.com##.js_modal_exit_intent
