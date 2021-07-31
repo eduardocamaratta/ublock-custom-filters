@@ -108,3 +108,4 @@ gamespotvideo.*
 kotaku.com##.js_modal_exit_intent
 jalopnik.com##.js_modal_exit_intent
 gizmodo.com##.js_modal_exit_intent
+gizmodo.com##.js_sticky-top-ad
