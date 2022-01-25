@@ -109,3 +109,5 @@ kotaku.com##.js_modal_exit_intent
 jalopnik.com##.js_modal_exit_intent
 gizmodo.com##.js_modal_exit_intent
 gizmodo.com##.js_sticky-top-ad
+! 2022-01-25 https://www.duolingo.com - Disable annoying cracked image
+||d35aaqx5ub95lt.cloudfront.net/images/fd569ab540bb46d2237dbe08957c3874.svg$image
