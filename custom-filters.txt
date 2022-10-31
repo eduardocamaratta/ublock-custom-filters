@@ -1,6 +1,4 @@
-! Folha Paywall
-folha.uol.com.br##*paywall*
-paywall.folha.uol.com.br
+
 ! 4/18/2017, 12:36:05 PM https://www.uol.com.br
 www.uol##.content-lightbox-container
 ! 4/18/2017, 12:36:25 PM https://www.uol.com.br
@@ -17,8 +15,6 @@ legendas.tv###fanback
 uol.com.br##.bannersticky-top-container
 ! 7/24/2017, 12:13:51 PM http://zh.clicrbs.com.br
 zh.clicrbs.com.br###onesignal-popover-dialog
-! 8/18/2017, 8:42:18 PM http://www1.folha.uol.com.br
-www1.folha.uol.com.br##.aside-menu > .nav
 ! 8/20/2017, 4:52:20 PM https://en.wikipedia.org
 en.wikipedia.org###frb-inline
 ! 8/22/2017, 7:29:42 PM https://en.wikipedia.org
@@ -98,8 +94,6 @@ private-browsing.js
 tinypass.com
 ! 10/8/2019 https://gauchazh.clicrbs.com.br
 gauchazh.clicrbs.com.br##w-div
-! 03/02/2020 https://www1.folha.uol.com.br
-folha.uol.com.br##div[data-subscribe-advertising=""]
 ! 21/02/2020 https://www.uol.com.br
 uol.com.br##.webalert_parent_container
 ! 16/06/2020 https://www.gamespot.com/
@@ -111,3 +105,9 @@ gizmodo.com##.js_modal_exit_intent
 gizmodo.com##.js_sticky-top-ad
 ! 2022-01-25 https://www.duolingo.com - Disable annoying cracked image
 ||d35aaqx5ub95lt.cloudfront.net/images/fd569ab540bb46d2237dbe08957c3874.svg$image
+! Paywall and ads
+folha.uol.com.br##*paywall*
+paywall.folha.uol.com.br
+folha.uol.com.br##.c-top-signup
+folha.uol.com.br##.c-estudio-folha
+www1.folha.uol.com.br##.aside-menu > .nav
