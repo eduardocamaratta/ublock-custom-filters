@@ -111,3 +111,5 @@ paywall.folha.uol.com.br
 folha.uol.com.br##.c-top-signup
 folha.uol.com.br##.c-estudio-folha
 www1.folha.uol.com.br##.aside-menu > .nav
+! 24/01/2025 https://www.duolingo.com
+duolingo.com##div._3D_HB
