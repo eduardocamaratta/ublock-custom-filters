@@ -113,5 +113,5 @@ folha.uol.com.br##.c-estudio-folha
 www1.folha.uol.com.br##.aside-menu > .nav
 ! 24/01/2025 https://www.duolingo.com
 duolingo.com##div._3D_HB
-! 24/01/2025 https://www.theverge.com
-theverge.com##.zephr-zone-footer
+! 2025-03-01 https://www.theverge.com
+theverge.com##^script
