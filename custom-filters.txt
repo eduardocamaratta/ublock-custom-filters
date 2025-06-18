@@ -113,7 +113,5 @@ folha.uol.com.br##.c-estudio-folha
 www1.folha.uol.com.br##.aside-menu > .nav
 ! 24/01/2025 https://www.duolingo.com
 duolingo.com##div._3D_HB
-! 2025-03-01 https://www.theverge.com
-theverge.com##^script
 ! 6 Mar 2025 https://arstechnica.com
 arstechnica.com##.ars-interlude-container
