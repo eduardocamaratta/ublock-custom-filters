@@ -117,3 +117,5 @@ duolingo.com##div._3D_HB
 arstechnica.com##.ars-interlude-container
 ! 14 Aug 2025
 ||assets.zephr.com/zephr-browser/*/zephr-browser.umd.js
+! 3 Sep 2025
+autosport.com##.msnt-sticky-recommendations-strip
