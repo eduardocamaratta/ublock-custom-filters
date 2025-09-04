@@ -119,3 +119,4 @@ arstechnica.com##.ars-interlude-container
 ||assets.zephr.com/zephr-browser/*/zephr-browser.umd.js
 ! 3 Sep 2025
 autosport.com##.msnt-sticky-recommendations-strip
+autosport.com##msnt-color-scheme-switcher>div
