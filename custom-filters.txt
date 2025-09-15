@@ -120,3 +120,5 @@ arstechnica.com##.ars-interlude-container
 ! 3 Sep 2025
 autosport.com##.msnt-sticky-recommendations-strip
 autosport.com##msnt-color-scheme-switcher>div
+! 15 Sep 2025 - Extremely annoying CtA
+rxdb.info##.call-to-action-popup
