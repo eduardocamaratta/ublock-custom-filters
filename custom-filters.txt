@@ -122,3 +122,6 @@ autosport.com##.msnt-sticky-recommendations-strip
 autosport.com##msnt-color-scheme-switcher>div
 ! 15 Sep 2025 - Extremely annoying CtA
 rxdb.info##.call-to-action-popup
+! 17 Sep 2025 - Block annoying useless videos
+uol.com.br##.cardVideo__live__header
+uol.com.br##.ftscp-plr-core
