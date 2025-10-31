@@ -125,3 +125,5 @@ rxdb.info##.call-to-action-popup
 ! 17 Sep 2025 - Block annoying useless videos
 uol.com.br##.cardVideo__live__header
 uol.com.br##.ftscp-plr-core
+! 31 Oct 2025 - annoying banner
+wikipedia.org##.wmde-banner
