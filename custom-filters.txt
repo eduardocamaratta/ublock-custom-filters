@@ -127,3 +127,5 @@ uol.com.br##.cardVideo__live__header
 uol.com.br##.ftscp-plr-core
 ! 31 Oct 2025 - annoying banner
 wikipedia.org##.wmde-banner
+! 13 Mar 2026 - annoying auto play videos
+uol.com.br##.cardVideo
